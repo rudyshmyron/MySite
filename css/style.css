@@ -1,0 +1,13 @@
+.header{
+    background-color: #555;
+    color: #fff;
+    height: 150px;
+}
+.body{
+    height: 150px;
+}
+.footer{
+    background: #555;
+        color: #fff;
+    height: 250px;
+}
